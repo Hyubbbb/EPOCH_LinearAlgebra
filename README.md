@@ -15,7 +15,7 @@
 
 
 ### 코드 제출 방식
-**제출 경로**: `EPOCH_LinearAlgebra/이름/ChapterN_solution.ipynb`
+**제출 경로**: `EPOCH_LinearAlgebra/이름/ChapterN_solution.ipynb`
    - *이름은 자유롭게 입력*
   
 **제출 기한**: `세션 전날 자정`
